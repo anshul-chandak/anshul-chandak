@@ -3,7 +3,7 @@
 🎯 Business Intelligence & Data Analytics Enthusiast | 📊 Turning data into insights  
 🎓 Master’s in Information Technology & Management at UT Dallas (GPA: 3.91)  
 📍 Based in Dallas, TX  
-☁️ Skilled in AWS S3, Lambda, Redshift | 🧠 ETL, Data Modeling, SQL  
+☁️ Skilled in SQL, Python, Power BI, AWS, Applied Machine Learning, Data Modeling, ETL  
 📈 Passionate about solving business problems with data-driven solutions  
 
 ---
